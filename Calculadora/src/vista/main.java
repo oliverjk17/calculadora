@@ -7,7 +7,7 @@ package vista;
 
 /**
  *
- * @author david
+ * @author OLIVER
  */
 public class main {
 

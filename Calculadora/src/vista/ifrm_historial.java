@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 /**
  *
- * @author david
+ * @author OLIVER
  */
 public class ifrm_historial extends javax.swing.JInternalFrame {
 
