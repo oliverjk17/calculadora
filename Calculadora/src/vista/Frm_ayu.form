@@ -72,7 +72,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="rows" type="int" value="5"/>
-            <Property name="text" type="java.lang.String" value="Para ayuda comunocarse a soporte tecnico en oficinas centrales "/>
+            <Property name="text" type="java.lang.String" value="Para ayuda comunocarse a soporte tecnico en oficinas centrales&#xa;&#xa;las operaciones de deben de hacer, luego para una nueva operacion &#xa;ir al menu y seleccionar la opciopn NUEVO  "/>
           </Properties>
         </Component>
       </SubComponents>

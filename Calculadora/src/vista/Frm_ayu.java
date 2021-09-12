@@ -47,7 +47,7 @@ public class Frm_ayu extends javax.swing.JInternalFrame {
         jTextArea1.setFont(new java.awt.Font("Century Gothic", 1, 14)); // NOI18N
         jTextArea1.setForeground(new java.awt.Color(255, 255, 255));
         jTextArea1.setRows(5);
-        jTextArea1.setText("Para ayuda comunocarse a soporte tecnico en oficinas centrales ");
+        jTextArea1.setText("Para ayuda comunocarse a soporte tecnico en oficinas centrales\n\nlas operaciones de deben de hacer, luego para una nueva operacion \nir al menu y seleccionar la opciopn NUEVO  ");
         jScrollPane2.setViewportView(jTextArea1);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
